@@ -1,5 +1,7 @@
 # Prayer Times - Moodle Plugin Block
 
+![Frame 1](https://user-images.githubusercontent.com/18481088/208225889-e098ecf6-2b12-46f9-87ec-32fe12f46ba8.png)
+
 ## Feature
 - Display five times of daily prayer
   - The prayer times are fetch from open API
